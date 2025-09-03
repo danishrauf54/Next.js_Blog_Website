@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\blog\\\\index.js -> @/components/ItemList\":{\"id\":\"pages\\\\blog\\\\index.js -> @/components/ItemList\",\"files\":[\"static/chunks/components_ItemList_index_jsx.js\"]},\"pages\\\\index.js -> @/components/ItemList\":{\"id\":\"pages\\\\index.js -> @/components/ItemList\",\"files\":[\"static/chunks/components_ItemList_index_jsx.js\"]}}"
