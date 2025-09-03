@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start -p $PORT",
-  "lint": "next lint"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "lint": "next lint"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "axios": "^1.7.2",
+    "cookie": "^1.0.2",
     "next": "14.2.5",
     "next-redux-wrapper": "^8.1.0",
     "react": "18.3.1",
@@ -26,6 +27,6 @@
     "tailwindcss": "^3.4.10"
   },
   "engines": {
-    "node": ">=18"   
+    "node": ">=18"
   }
 }
